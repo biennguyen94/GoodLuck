@@ -16,8 +16,7 @@
 * Add these final reports to GoodLuck/doc/src/index.rst
 * Build doc
     ```
-    mkdir GoodLuck/build
-    cd build
+    cd GoodLuck/build
     cmake ..
     make sphinx-html
     ```
